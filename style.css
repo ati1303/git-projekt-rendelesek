@@ -1,0 +1,11 @@
+body{
+
+    height: 100vh;
+    display: flex;
+}
+
+#result{
+
+    max-width: 1200px;
+    display: grid;
+}
